@@ -1,0 +1,45 @@
+
+--------------------------------------------------
+--------------------------------------------------
+### WELCOME TO MY CRYPTO DUE DILLIGENCE PAGE ###
+--------------------------------------------------
+--------------------------------------------------
+
+
+
+
+
+
+--------------------------------------------------
+## TRADING RESOURCES ##
+--------------------------------------------------
+
+#Check ETH gas prices and Block Propagation chart
+https://www.gasnow.org/
+
+#Check Stats on the Ethereum network
+https://ethstats.net/
+
+
+--------------------------------------------------
+## ON-CHAIN ANALYTICS RESOURCES ##
+--------------------------------------------------
+
+#Track DeFi users over time (via unique addresses tracked on various DeFi protocols)
+https://duneanalytics.com/rchen8/defi-users-over-time
+
+#Track core on-chain metrics for BTC
+https://studio.glassnode.com/dashboards/btc-core-on-chain
+
+#Track exchange and miner balance inflows and outflows
+https://www.tokenanalyst.io/dashboard
+
+#IntoTheBlock Token Summary for LINK
+https://app.intotheblock.com/coin/LINK
+
+#List of IntoTheBlock indicators
+https://resources.intotheblock.com/getting-started/start-exploring
+
+--------------------------------------------------
+## Helpful APIs ##
+--------------------------------------------------
